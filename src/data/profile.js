@@ -14,9 +14,9 @@ const profile = {
   skills: [
     { name: 'JavaScript', level: 90 },
     { name: 'React', level: 85 },
-    { name: 'Node.js', level: 80 },
-    { name: 'Java', level: 75 },
-    { name: 'PHP', level: 70 },
+    { name: 'Node.js', level: 77 },
+    { name: 'Java', level: 94 },
+    { name: 'PHP', level: 85 },
     { name: 'HTML', level: 95 },
   ],
   projects: [
