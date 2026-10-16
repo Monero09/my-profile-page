@@ -15,8 +15,8 @@ const profile = {
     { name: 'JavaScript', level: 90 },
     { name: 'React', level: 85 },
     { name: 'Node.js', level: 80 },
-    { name: 'python', level: 75 },
-    { name: 'mysql', level: 70 },
+    { name: 'Java', level: 75 },
+    { name: 'PHP', level: 70 },
     { name: 'HTML', level: 95 },
   ],
   projects: [
